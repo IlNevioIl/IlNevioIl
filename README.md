@@ -6,6 +6,5 @@
 
 ![](https://github.com/IlNevioIl/stats/blob/master/generated/overview.svg)
 ![](https://github.com/IlNevioIl/stats/blob/master/generated/languages.svg)
-[![File Size](https://github-readme-stats.vercel.app/api/top-langs/?username=IlNevioIl&langs_count=5&size_weight=1&count_weight=1)
 
 </a>
